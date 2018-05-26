@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\Administrator\Desktop\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Administrator\Desktop\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Sorting\Sorting\obj\Debug\Sorting.Login.resources
+C:\Users\Administrator\Desktop\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\Administrator\Desktop\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\Administrator\Desktop\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Administrator\Desktop\Sorting\Sorting\obj\Debug\Sorting.Main.resources
+C:\Users\Administrator\Desktop\Sorting\Sorting\obj\Debug\Sorting.SortWeight.resources
+C:\Users\Administrator\Desktop\Sorting\Sorting\obj\Debug\Sorting.ChooseGood.resources
+C:\Users\Administrator\Desktop\Sorting\Sorting\obj\Debug\Sorting.setTime.resources
